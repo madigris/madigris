@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Madi! I'm currently a Social Service Work student, but recently started exploring cybersecurity and technology. I'm using GitHub to track my learning, build hands-on projects and develop my technical skills along the way! 
 
 <!--
 **madigris/madigris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
